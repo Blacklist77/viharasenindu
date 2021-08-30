@@ -21,5 +21,5 @@
 
 # Social Media
 
-[![Twitter] (https://twitter.com/Vsenindu) <a href="https://twitter.com/VSenindu"><img src="https://img.shields.io/badge/VSenindu-blue.svg?logo=twitter"></a>
+[![Twitter]]<a href="https://twitter.com/VSenindu"><img src="https://img.shields.io/badge/VSenindu-blue.svg?logo=twitter"></a>(https://twitter.com/bemro_official)&nbsp;
 
