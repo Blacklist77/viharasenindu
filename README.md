@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vihara Senindu</h1>
+# Hi, I'm Vihara Senindu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viharasenindu&label=Profile%20views&color=0e75b6&style=flat" alt="viharasenindu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viharasenindu" alt="viharasenindu" /></a> </p>
