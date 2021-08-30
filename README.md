@@ -21,5 +21,5 @@
 
 # Social Media
 
-<a href="https://twitter.com/VSenindu"><img src="https://img.shields.io/badge/VSenindu-blue.svg?logo=twitter"></a>
+[![Twitter]<a href="https://twitter.com/VSenindu"><img src="https://img.shields.io/badge/VSenindu-blue.svg?logo=twitter"></a>
 
