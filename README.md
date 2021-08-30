@@ -17,6 +17,7 @@
     <img width="55%"  alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple" />
   </a>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ViharaSenindu" alt="ViharaSenindu" /></a> </p>
 
 # Social Media
