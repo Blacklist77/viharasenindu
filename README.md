@@ -21,5 +21,5 @@
 
 # Social Media
 
-- [![Profile views](https://gpvc.arturio.dev/viharasenindu)](https://gpvc.arturio.dev/viharasenindu)
+
 
