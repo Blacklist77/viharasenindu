@@ -12,5 +12,5 @@
 # MY SOCIAL MEDIA STATICS
 
 <a href="https://github.com/viharasenindu/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-green" />
   </a>
