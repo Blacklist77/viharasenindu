@@ -22,7 +22,7 @@
 # Social Media
 
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://youtube.com/c/viharasenindu)&nbsp;
-[![Telegram](https://img.shields.io/badge/viharasenindu%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/viharasenindu)&nbsp;
+[![Telegram](https://img.shields.io/badge/viharasenindu%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/viharasenindu)&nbsp;
 [![Facebook](https://img.shields.io/badge/Follow%20me%20on%20Facebook-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://fb.me/viharasenindu)&nbsp;
 [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://instagram.com/_V_2002_SE)&nbsp;
 [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)](https://twitter.com/Vsenindu)&nbsp;
