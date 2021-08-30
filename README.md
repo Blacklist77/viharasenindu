@@ -21,5 +21,5 @@
 
 # Social Media
 
-<a href="https://twitter.com/ViharaSenindu" target="blank"><img src="https://img.shields.io/twitter/follow/ViharaSenindu?logo=twitter&style=for-the-badge" alt="ViharaSenindu" /></a>
+- [![Twitter followers](https://img.shields.io/twitter/follow/ViharaSenindu?logo=twitter&style=social)](https://twitter.com/bemro_official)
 
