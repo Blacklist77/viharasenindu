@@ -21,5 +21,5 @@
 
 # Social Media
 
-- [![Twitter](https://twitter.com/VSenindu?logo=twitter&style=social)](https://twitter.com/VSenindu)
+<a href="https://twitter.com/VSenindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VSenindu" height="30" width="40" /></a>
 
