@@ -21,5 +21,5 @@
 
 # Social Media
 
-- [![Twitter followers](https://img.shields.io/twitter/follow/ViharaSenindu?logo=twitter&style=social)](https://twitter.com/VSenindu)
+- [![Twitter followers](https://img.shields.io/twitter/follow/VSenindu?logo=twitter&style=social)](https://twitter.com/VSenindu)
 
