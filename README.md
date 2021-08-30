@@ -7,4 +7,4 @@
 - 🔹Gender - Male
 - 🔹Country - Sri lanka 🇱🇰
 - 🔹I like programming & developing bots.
-- 🔹 Contact Me - [Vihara Senindu](https://t.me/ViharaSenindu) on Telegram
+- 🔹 Contact Me - - <a href="https://t.me/ViharaSenindut"><img src="https://img.shields.io/badge/Vihara Senindu-Join%20Support%20Group-blue.svg?logo=telegram"></a>
