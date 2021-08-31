@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viharasenindu" alt="viharasenindu"></p>
 
-<a href="https://github.com/viharasenindu"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viharasenindu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/viharasenindu"><img alt="Vihara Senindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viharasenindu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
