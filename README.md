@@ -86,6 +86,9 @@
 
   <summary><b> My Other Groups </b></summary>
 
+ <a href="https://t.me/GhostParadise"><img src="https://img.shields.io/badge/Join-Telegram%20Group-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ceylonlk"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
 
 
  </details></h1>
