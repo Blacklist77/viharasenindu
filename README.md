@@ -27,9 +27,10 @@
 
 # Contributions
 
-<p align="left">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viharasenindu" alt="viharasenindu"></p>
+
+<a href="https://github.com/viharasenindu"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viharasenindu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 
 
