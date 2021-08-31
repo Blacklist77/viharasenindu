@@ -97,4 +97,5 @@
 ![VisitorCount](https://profile-counter.glitch.me/{viharasenindu}/count.svg)
 
 
+- [![Telegram Channel](https://img.shields.io/t.me/ceylonlk?logo=telegram&style=social)](https://t.me/ceylonlk)
 
