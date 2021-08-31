@@ -79,6 +79,9 @@
 
 # My Groups 👥
 
+<a href="https://t.me/Lexiebotupdate"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+<a href="https://t.me/lexiesupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-red.svg?logo=Telegram"></a>
 <h1><details>
 
   <summary><b> My Other Groups </b></summary>
