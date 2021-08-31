@@ -27,6 +27,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ViharaSenindu" alt="ViharaSenindu" /></a> </p>
 
+# MContributions
+
+<a href="https://github.com/ViharaSenindu"><img alt="ViharaSenindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViharaSenindu&bg_color=#0000FF&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 # Social Media
 
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://youtube.com/c/viharasenindu)&nbsp;
