@@ -19,9 +19,8 @@
 - [![Profile views](https://gpvc.arturio.dev/viharasenindu)](https://github.com/viharasenindu)
 - [![GitHub followers](https://img.shields.io/github/followers/viharasenindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viharasenindu?tab=followers)
 
-<a href="https://github.com/viharasenindu/handle-path-oz">
-    <img width="55%"  alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple" />
-  </a>
+![Vihara GitHub Status](https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viharasenindu" alt="viharasenindu" /></a> </p>
