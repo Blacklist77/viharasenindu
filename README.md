@@ -1,5 +1,8 @@
 # Hi, I'm Vihara Senindu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+Vihara+Senindu)](https://git.io/typing-svg)
+
 **About Me**
 
 <img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
