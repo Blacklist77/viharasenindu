@@ -70,9 +70,9 @@
 </p>
 
 <!-- end -->
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
 
 <h1><details>
 
