@@ -93,11 +93,6 @@
 <a href="https://t.me/ceylonlk"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 
-## 🎵 Now playing
-
-[![Spotify](https://spotify-readme-3s61yj059-viharasenindu.vercel.app/api/spotify)](https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs?si=SKjBdTBcRbutrIUs0iFSJA&dl_branch=1)
-
-
 
  </details></h1>
 
