@@ -29,9 +29,10 @@
 
 # Contributions
 
-<a href="https://github.com/ViharaSenindu"><img alt="ViharaSenindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViharaSenindu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ViharaSenindu" alt="ViharaSenindu"></p>
+
+
+<a href="https://github.com/ViharaSenindu"><img alt="ViharaSenindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViharaSenindu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 # Social Media
