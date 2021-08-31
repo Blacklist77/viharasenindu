@@ -1,7 +1,7 @@
 # Hi, I'm Vihara Senindu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+Vihara+Senindu;-%3E🦾+I+love+programming+&+developing+bots.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+Vihara+Senindu;-%3E+🦾+I+love+programming;-%3Edeveloping+bots.)](https://git.io/typing-svg)
 
 **About Me**
 
