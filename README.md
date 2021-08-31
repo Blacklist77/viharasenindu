@@ -29,7 +29,7 @@
 
 # MContributions
 
-<a href="https://github.com/ViharaSenindu"><img alt="ViharaSenindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViharaSenindu&bg_color=#0000FF&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ViharaSenindu"><img alt="ViharaSenindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViharaSenindu&bg_color=#00FF00&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 # Social Media
