@@ -11,7 +11,10 @@
 
 # MY Github STATICS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViharaSenindu&label=Profile%20views&color=0e75b6&style=flat" alt="ViharaSenindu" /> </p>
+- [![Profile views](https://gpvc.arturio.dev/ViharaSenindu)](https://github.com/ViharaSenindu)
+- [![GitHub followers](https://img.shields.io/github/followers/ViharaSenindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ViharaSenindu?tab=followers)
+- [![visitors](https://visitor-badge.glitch.me/badge?page_id=ViharaSenindu)](https://github.com/ViharaSenindu)
+
 
 <a href="https://github.com/viharasenindu/handle-path-oz">
     <img width="55%"  alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple" />
