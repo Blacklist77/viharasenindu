@@ -2,12 +2,17 @@
 
 **About Me**
 
+<img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 - 🔹Name - Vihara Senindu
 - 🔹Age - 19 
 - 🔹Gender - Male
 - 🔹Country - Sri lanka 🇱🇰
 - 🔹I like programming & developing bots.
 - 🔹 Contact Me - <a href="https://t.me/ViharaSenindu"><img src="https://img.shields.io/badge/Vihara Senindu-blue.svg?logo=telegram"></a>
+
+
 
 # MY Github STATICS
 
@@ -59,7 +64,6 @@
 
 <!-- end -->
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4730ctjj8nb6ywoknlwtfjoo0apgez4l8em3d0o7tp&rid=giphy.gif&ct=g" />
 
 
 
