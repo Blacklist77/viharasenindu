@@ -12,7 +12,6 @@
 - 🔹I like programming & developing bots.
 - 🔹 Contact Me - <a href="https://t.me/ViharaSenindu"><img src="https://img.shields.io/badge/Vihara Senindu-blue.svg?logo=telegram"></a>
 
-<img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/l1J9KU2KmTwzptMD6/giphy.gif?cid=ecf05e47f5jehnoff2yga4rk5gnq2ajkclz8yqcdnitq1tx4&rid=giphy.gif&ct=g" />
 
 # MY Github STATICS 📊
 
