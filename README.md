@@ -2,7 +2,9 @@
 
 **About Me**
 
-<img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<p align="right"><img src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif?cid=ecf05e47bene7wdcs253gk4v3y4fj5w2sgolmrznpcu1y3ya&rid=giphy.gif&ct=g" alt="Bt" />
+
 
 
 - 🔹Name - Vihara Senindu
@@ -11,6 +13,9 @@
 - 🔹Country - Sri lanka 🇱🇰
 - 🔹I like programming & developing bots.
 - 🔹 Contact Me - <a href="https://t.me/ViharaSenindu"><img src="https://img.shields.io/badge/Vihara Senindu-blue.svg?logo=telegram"></a>
+
+<img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 
 # MY Github STATICS 📊
