@@ -23,6 +23,8 @@
 
 ![Vihara GitHub Status](https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple)
 
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viharasenindu" alt="viharasenindu" /></a> </p>
 
@@ -96,6 +98,4 @@
 
 #### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{viharasenindu}/count.svg)
-
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
