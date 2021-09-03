@@ -97,4 +97,5 @@
 #### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{viharasenindu}/count.svg)
 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
