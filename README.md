@@ -21,7 +21,6 @@
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px>
 
 
-- [![Profile views](https://gpvc.arturio.dev/viharasenindu)](https://github.com/viharasenindu)
 - [![GitHub followers](https://img.shields.io/github/followers/viharasenindu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viharasenindu?tab=followers)
 
 ![Vihara GitHub Status](https://github-readme-stats.vercel.app/api?username=viharasenindu&show_icons=true&theme=midnight-purple)
